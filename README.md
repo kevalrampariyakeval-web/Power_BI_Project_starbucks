@@ -1,6 +1,6 @@
 <div align="center">
 
-# ☕ Starbucks Beverage Analytics Dashboard
+# ☕ Starbucks Beverage Analytics Dashboard 📊
 
 ### 📊 Power BI | Data Analytics | Business Intelligence
 
