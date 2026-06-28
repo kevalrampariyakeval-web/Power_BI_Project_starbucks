@@ -49,7 +49,8 @@ https://drive.google.com/drive/folders/1bXakvDwKlL2WdVlnqQ5wPlxxRkNgF2bZ
 ### ☕ Starbucks Analytics Dashboard
 
 
-<img width="548" height="309" alt="PIC-1" src="https://github.com/user-attachments/assets/7b7c3db7-6a5a-403c-ba75-2a32c269bca5" />
+<img width="490" height="274" alt="Deshbordimg" src="https://github.com/user-attachments/assets/e12233f1-d8d7-4a66-8dbf-a194bec20af0" />
+
 
 </div>
 
